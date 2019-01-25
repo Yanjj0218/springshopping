@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/Yanjj0218/springshopping.git
           username:
           password:
           search-paths: serverconfig/*
